@@ -11,7 +11,6 @@
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirajulislam0&show_icons=true&theme=radical)
-
 📌 Featured Projects
 ## 📌 Featured Projects
 - 🔹 Coming Soon...
