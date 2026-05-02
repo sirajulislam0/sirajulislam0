@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Sirajul Islam
 
-<!--
-**sirajulislam0/sirajulislam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Next.js Learner
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
+🌱 Currently learning Next.js, API Integration
+🔥 Working on real projects (like KeenKeeper)
+🎯 Goal: Become a Full Stack Developer
+⚡ Love clean UI & modern design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirajulislam0&show_icons=true&theme=radical)
+
+📌 Featured Projects
+## 📌 Featured Projects
+- 🔹 Coming Soon...
+- 🔹 Working on exciting projects 🚀
+🚀 Tech Stack
+## 🚀 Tech Stack
+HTML
+CSS
+JavaScript
+React
+Next.js
+Tailwind
+
+
+
+
+📫 Contact Me
+📧 Email: sirajulislamweb015@email.com
